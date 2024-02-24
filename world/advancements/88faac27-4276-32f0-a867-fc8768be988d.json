@@ -1,0 +1,21 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "maple_woods": "2024-02-25 00:29:50 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-02-25 00:29:49 +0600"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2024-02-25 00:29:50 +0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3463
+}
